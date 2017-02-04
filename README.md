@@ -1,5 +1,4 @@
-# QRCode
-
+# QRCode Eclipse
 Barcode scanner
 1 query
     1 Digital query
